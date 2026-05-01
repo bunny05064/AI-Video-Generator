@@ -110,7 +110,7 @@ Google Sheets → Scene Generation → Image Generation → Video Rendering → 
 
 ## 👤 Author
 
-**Bunny Tripathi**
+**Somya Tripathi**
 
 ---
 
